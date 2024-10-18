@@ -1,0 +1,11 @@
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\bin\Debug\net8.0\BauProjekt.deps.json
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\bin\Debug\net8.0\BauProjekt.dll
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\bin\Debug\net8.0\BauProjekt.pdb
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.AssemblyInfoInputs.cache
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.AssemblyInfo.cs
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.dll
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\refint\BauProjekt.dll
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\BauProjekt.pdb
+C:\Users\simsi\Desktop\BauProjekt\BauProjekt\obj\Debug\net8.0\ref\BauProjekt.dll
